@@ -24,8 +24,8 @@ Should be able to:
 
 ### Links
 
-- Solution URL: [github](https://github.com/Scorti-Paul/interavtive-rating-app)
-- Live Site URL: [netlify](https://interavtive-rating-app.netlify.com)
+- Solution URL: [github](https://github.com/Scorti-Paul/snap)
+- Live Site URL: [netlify](https://frontm-snap.netlify.app)
 
 ## My process
 
